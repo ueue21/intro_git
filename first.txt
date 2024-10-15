@@ -2,3 +2,4 @@
 ・基本的なフローを学習中です
 ・git add
 ・git commit
+・git remove
