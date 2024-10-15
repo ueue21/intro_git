@@ -1,2 +1,4 @@
 ・Gitの練習です
 ・基本的なフローを学習中です
+・git add
+・git commit
